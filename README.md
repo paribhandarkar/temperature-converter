@@ -27,3 +27,5 @@ I learned about the onChange attribute.
 The **`onchange`** attribute can be used to specify a JavaScript function that will be executed when the user changes the value of the input field. This function can perform various actions, such as validating the input or updating other elements on the page based on the user's input.
 
 For example, in the temperature converter code, the **`onchange`** attribute is used with the Celsius, Fahrenheit, and Kelvin input fields to trigger the **`computeTemp`** function whenever the user changes the temperature value in any of those fields.
+
+![image](https://github.com/paribhandarkar/temperature-converter/assets/76446574/2d2ac400-5d61-41f3-9c73-3f83c6dba305)
